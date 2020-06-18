@@ -2,4 +2,5 @@
 A Machine Learning approach to predict  Schizophrenia risk using systemic interindividual epigenetic variation in whole blood
 
 
-![alt text](https://github.com/cjgunase/[reponame]/blob/[branch]/image.jpg?raw=true)
+![pipeline](https://raw.githubusercontent.com/cjgunase/CoRSIV_SZ_Risk_Distance/master/Presentation3.jpg?raw=true)
+
